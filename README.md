@@ -10,6 +10,6 @@ I'm a Senior Software Engineer based in Santiago, Chile.
 - 📫 How to reach me: [Visit my LinkedIn profile](https://www.linkedin.com/in/alvaroveliz/)
 - ⚡ Fun fact: My first, middle and last name have an accent
 
-This are my stats on Github:
+These are my stats on Github:
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=alvaroveliz&show_icons=true&theme=transparent)
