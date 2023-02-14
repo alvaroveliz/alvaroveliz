@@ -6,8 +6,8 @@ I'm Álvaro Véliz, I'm a Senior Software Engineer based in Santiago, Chile.
 - 💼 I have an small agency called Polinomio.cl
 - 🌱 I’m currently learning Rails and Laravel
 - 👯 I’m looking to collaborate on laravel and rails projects
-- 💬 Ask me about music and turntablims
-- 📫 How to reach me: alvaro.veliz@gmail.com
+- 💬 Ask me about music and turntablism
+- 📫 How to reach me: [Visit my LinkedIn profile](https://www.linkedin.com/in/alvaroveliz/)
 - ⚡ Fun fact: My first, middle and last name have an accent
 
 This are my stats on Github:
