@@ -1,6 +1,6 @@
-### Hi there, I'm Álvaro 👋
+### Hi there, I'm Álvaro Véliz 👋
 
-I'm Álvaro Véliz, I'm a Senior Software Engineer based in Santiago, Chile.
+I'm a Senior Software Engineer based in Santiago, Chile.
 
 - 🔭 I’m currently working on Checkr, Inc
 - 💼 I have an small agency called Polinomio.cl
