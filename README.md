@@ -3,7 +3,7 @@
 I'm a Senior Software Engineer based in Santiago, Chile.
 
 - 🔭 I’m currently working on Checkr, Inc
-- 💼 I have an small agency called Polinomio.cl
+- 💼 I have an small agency called Doppio.cl
 - 🌱 I’m currently learning Rails and Laravel
 - 👯 I’m looking to collaborate on laravel and rails projects
 - 💬 Ask me about music and turntablism
